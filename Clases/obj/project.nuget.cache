@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/aZGaqoyZ68QBe+2YmA440JE3pqe3CBGoUwOR6q4n3aYeJC4A8q7DBRLgXFet7qRh7I5RTx5YxPe8TeFVhbLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Agustin\\source\\repos\\Clases\\Clases\\Clases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Agustin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
